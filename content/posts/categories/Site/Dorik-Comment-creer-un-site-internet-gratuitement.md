@@ -4,7 +4,7 @@ date: 2022-04-28T14:19:28.000Z
 draft: false
 categories: Site internet
 cover:
-  image: img/Dorik.webp
+  image: /img/Dorik.webp
   alt: Dorik créer un site internet
   caption: <text>
   relative: false
