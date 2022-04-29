@@ -11,15 +11,9 @@ weight = 10
 
 [[menu.main]]
 identifier = "categories"
-name = "categories"
+name = "Catégories"
 url = "/categories/"
 weight = 20
-
-[[menu.main]]
-identifier = "example"
-name = "example.org"
-url = "https://example.org"
-weight = 30
 
 
 [params.homeInfoParams]
@@ -27,16 +21,16 @@ Title = "Hi there 👋"
 Content = "Welcome to my blog"
 
 [[params.socialIcons]]
-name = "twitter"
-url = "https://twitter.com/"
+name = "instagram"
+url = "https://www.instagram.com/objectifdigital/"
 
 [[params.socialIcons]]
 name = "facebook"
-url = "https://stackoverflow.com"
+url = "https://www.instagram.com/objectifdigital/"
 
 [[params.socialIcons]]
-name = "github"
-url = "https://github.com/"
+name = "email"
+url = "mailto:info@objectifdigital.ch"
 
 [params]
 description = "Objectif Digital : Création de site internet"
