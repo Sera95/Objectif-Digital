@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://objectifdigital.ch'
 languageCode = 'fr'
 title = 'Objectif Digital'
 theme = 'PaperMod'
@@ -48,6 +48,8 @@ ShowPostNavLinks = true
 ShowCodeCopyButtons = true
 ShowBreadCrumbs = true
 env = "production"
+canonicalURL = true
+ShowCanonicalLink = true
 
 
 [params.cover]

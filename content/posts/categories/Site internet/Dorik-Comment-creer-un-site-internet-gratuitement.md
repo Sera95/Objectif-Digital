@@ -2,6 +2,7 @@
 title: 'Dorik : Comment créer un site internet gratuitement ? (2022)'
 date: 2022-04-28T14:19:28.000Z
 draft: false
+canonicalURL : https://objectifdigital.ch/posts/categories/site/dorik-comment-creer-un-site-internet-gratuitement/
 categories: Site internet
 cover:
   image: /img/Dorik.webp
@@ -78,7 +79,8 @@ La qualité des modèles est tout aussi importante que leur quantité, si ce n'e
 
 La plupart des modèles ont l'air moderne et comportent les sections standard et des sections de mise en valeur.  Voici quelques exemples pour vous donner une idée.
 
-![Dorik](/img/DorikTemplate.webp)
+![Dorik template](/img/DorikTemplate.webp "Templates disponible dans Dorik")
+
 
 Comme vous pouvez le constater, ils ont mis en œuvre une compilation attrayante de couleurs complémentaires, de polices de caractères modernes et d'illustrations minimalistes. De plus, les boutons CTA (Call to Action) sont en gras, clairs et non encombrants.
 

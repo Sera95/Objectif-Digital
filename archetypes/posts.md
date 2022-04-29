@@ -2,6 +2,8 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
+canonicalURL :
+categories :
 cover:
     image: "<image path/url>"
     # can also paste direct link from external site
