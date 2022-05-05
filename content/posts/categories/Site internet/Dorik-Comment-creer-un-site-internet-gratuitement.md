@@ -2,7 +2,6 @@
 title: 'Dorik : Comment créer un site internet gratuitement ? (2022)'
 date: 2022-04-28T14:19:28.000Z
 draft: false
-canonicalURL : https://objectifdigital.ch/posts/categories/site/dorik-comment-creer-un-site-internet-gratuitement/
 categories: Site internet
 cover:
   image: /img/Dorik.webp
